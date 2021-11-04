@@ -1,0 +1,8 @@
+.digital-clock {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(45, 45, 158);
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 30px;
+}
